@@ -1,0 +1,143 @@
+*{
+   background-color: /*#FFFF99*/;
+   
+}
+
+div{
+  height: 30px;
+  width: 200px;
+  padding-top: 7px;
+  background-color: #006699;
+  text-align: center;
+  font-family: cursive;
+  display: inline-block;
+  margin-top: 10px;
+  margin-left: 100px;
+}
+
+img{
+  height: 200px;
+  width: 200px;
+  border: 2px solid black;
+  margin-top: 60px;
+  margin-right: 300px;
+  border-radius: 5%;
+  float: right;
+}
+
+a{
+  text-decoration:none;
+  color: #FFFF66;
+}
+
+a:hover{
+  color: #FFFFFF;
+  border: none;
+}
+ 
+ul li{
+  margin-top: 20px;
+  margin-left: 200px;
+  font-family: Arial;
+  color: #006699;
+  background: none;
+  font-size: 20px;
+}
+
+h1{
+  margin-top: 50px;
+  margin-left: 50px;
+  margin-right: 50px;
+  color: #009999;
+  font-size: 40px;
+  font-style: Impact;
+}
+
+p{
+  margin-left: 110px;
+  margin-right: 110px;
+  text-align: center;
+  color: #009999;
+  font-size: 20px; 
+}
+
+#bottom{
+  float: bottom;
+  height: 100px;
+  width: 1080px;
+  background-color: #000099;
+  margin-left: 0;
+  color: white;
+  padding-left: 270px;
+  margin-bottom: 0px;
+}
+
+div h2{
+  font-size: 20px;
+  text-align: left;
+  background-color: #000099;
+}
+
+.contact{
+  display: inline-block;
+  background-color: #686868;
+  color: white;
+}
+#facebook{
+  height: 100px;
+  width: 200px;
+  border: none;
+  margin-top: -30px;
+  margin-left: -800px;
+  margin-right: 400px; 
+}
+
+#github{
+  height: 80px;
+  width: 80px;
+  border: none;
+  margin-top: -10px;
+  margin-left: -100px;
+  margin-right: 100px:
+}
+
+div div{
+background-color: grey;
+width: 135px;
+height: 30px;
+
+border-radius: 10%;
+}
+
+#coleducation{
+  margin-top: 70px;
+  margin-left: 100px;
+  margin-right: 100px;
+  float: left;
+  height: 200px;
+  width: 200px;
+}
+
+.coledu{
+  margin-top: 40px; 
+  margin-left: -100px;
+  margin-right: 400px;
+  color: #009999;
+  text-align: center;
+}
+
+h3{
+  margin-left: 100px;
+  color:#006699; 
+  font-size: 30px;
+}
+
+#interests{
+  margin-top: 30px;
+  font-size: 40px;
+}
+
+#python{
+  height: 20px
+  
+}
